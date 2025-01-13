@@ -5,7 +5,7 @@
 1. Clone repositori ini:
 
     ```sh
-    git clone https://github.com/username/repo-name.git
+    git clone https://github.com/Npswara/Discord-Bot.git
     cd Discord-Bot/App
     ```
 
