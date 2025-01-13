@@ -12,7 +12,7 @@
 
     ```sh
     git clone https://github.com/username/repo-name.git
-    cd repo-name/App
+    cd Discord-Bot/App
     ```
 
 2. Install dependencies:
