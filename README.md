@@ -32,10 +32,6 @@
 - Ketika bot aktif, Anda dapat mengirim pesan di Discord yang dimulai dengan `hana` diikuti dengan prompt Anda.
 - Bot akan merespons dengan konten yang dihasilkan oleh model AI.
 
-## Kontribusi
-
-Silakan buat pull request atau buka issue untuk kontribusi atau masalah.
-
 ## Lisensi
 
 Proyek ini dilisensikan di bawah MIT License.
