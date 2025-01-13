@@ -1,10 +1,4 @@
 
-## Persyaratan
-
-- Python 3.8 atau lebih baru
-- [discord.py](https://discordpy.readthedocs.io/en/stable/)
-- [google-generativeai](https://pypi.org/project/google-generativeai/)
-- [python-dotenv](https://pypi.org/project/python-dotenv/)
 
 ## Instalasi
 
@@ -21,12 +15,9 @@
     pip install discord.py google-generativeai python-dotenv
     ```
 
-3. Buat file [.env](http://_vscodecontentref_/1) di direktori [App](http://_vscodecontentref_/2) dan tambahkan API key dan token bot Anda:
+3. Set up .env
 
-    ```env
-    GENAI_APIKEY='YOUR_API_KEY'
-    CLIENT_TOKEN='YOUR_BOT_TOKEN'
-    ```
+   Masukan Client token dan Gemini Ai 
 
 ## Menjalankan Bot
 
